@@ -18,6 +18,8 @@ void Interface::comando(const string comando) {
         cout << "Comando " << instrucao << "por implementar" << endl;
     }
 
+    //FIZ UM COMMENT!
+
     //cons <tipo> <linha> <coluna>
     if (instrucao == "cons") {
         if (iss >> tipo) {
