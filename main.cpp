@@ -7,7 +7,7 @@ int comecaSimulacao();
 int main() {
     comecaSimulacao();
 }
-
+//aqui
 int comecaSimulacao(){
     //instancia da classe interface
     Interface interface;
