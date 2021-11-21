@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MEGA/C C++/TP_Patricia/Edificio.h
+string
+-
+
+E:/MEGA/C C++/TP_Patricia/Interface.cpp
+Interface.h
+E:/MEGA/C C++/TP_Patricia/Interface.h
+
+E:/MEGA/C C++/TP_Patricia/Interface.h
+Simulacao.h
+E:/MEGA/C C++/TP_Patricia/Simulacao.h
+sstream
+-
+iostream
+-
+
+E:/MEGA/C C++/TP_Patricia/Simulacao.h
+Zona.h
+E:/MEGA/C C++/TP_Patricia/Zona.h
+
+E:/MEGA/C C++/TP_Patricia/Trabalhador.h
+string
+-
+
+E:/MEGA/C C++/TP_Patricia/Zona.h
+string
+-
+vector
+-
+Edificio.h
+E:/MEGA/C C++/TP_Patricia/Edificio.h
+Trabalhador.h
+E:/MEGA/C C++/TP_Patricia/Trabalhador.h
+
+E:/MEGA/C C++/TP_Patricia/main.cpp
+iostream
+-
+sstream
+-
+Interface.h
+E:/MEGA/C C++/TP_Patricia/Interface.h
+
