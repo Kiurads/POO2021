@@ -20,6 +20,8 @@ void Interface::comando(const string comando) {
 
     //FIZ UM COMMENT!
 
+    //2 Comments
+
     //cons <tipo> <linha> <coluna>
     if (instrucao == "cons") {
         if (iss >> tipo) {
